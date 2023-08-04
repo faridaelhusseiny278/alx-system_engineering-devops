@@ -1,2 +1,6 @@
 #!/bin/bash
 telnet towel.blinkenlights.nl
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2e806ef1c939d6dfdcb584be29470548d2b8f542
